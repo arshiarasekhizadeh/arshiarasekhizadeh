@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @arshiarasekhizadeh
-- 👀 I’m interested in gaming and programming
-- 🌱 I’m currently learning java
+- 👀 I’m interested in programming
 - 💞️ I’m looking to collaborate on python project
-- 📫 How to reach me in whatsApp : +98-9380852218
+- 📫 How to reach me in whatsApp : +98-9034151503
                          ,Email : rasekhizadearshia@gmail.com
 
 
