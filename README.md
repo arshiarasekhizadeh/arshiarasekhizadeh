@@ -1,4 +1,12 @@
-<h2 align="left">Hi 👋! My name is Arshia and I'm a Python Developer from Iran</h2>
+<h2 align="left">👋 Hi, I'm Arshia!
+📊 Data Analysis Student at Messina University
+💻 Python enthusiast with 3+ years of experience
+🎮 Gamer | 🎵 Music Lover | 🎬 Movie Buff
+🌍 Exploring the world of data, one line of code at a time
+
+Let’s collaborate on data-driven projects! 🚀
+
+</h2>
 
 ###
 
