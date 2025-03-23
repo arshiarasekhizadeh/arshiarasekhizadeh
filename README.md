@@ -1,6 +1,6 @@
 <h2 align="left">👋 Hi, I'm Arshia!
 📊 Data Analysis Student at Messina University
-💻 Python enthusiast with 3+ years of experience
+💻 Python enthusiast with 4+ years of experience
 🎮 Gamer | 🎵 Music Lover | 🎬 Movie Buff
 🌍 Exploring the world of data, one line of code at a time
 
